@@ -26,6 +26,6 @@ Simple Proxy File:
 ```
 # Exporting Good Proxy
 
-to Export Good Proxy Insert Proxys.txt In Script Path 
+to Export Good Proxy Insert Proxies.txt In Script Path 
 & 
-Get Your Good Proxys.
+Get Your Good Proxies.
