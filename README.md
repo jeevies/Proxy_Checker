@@ -24,7 +24,7 @@ Simple Proxy File:
 91.203.36.102:45551
 192.109.165.81:80
 ```
-#Exporting Good Proxy
+# Exporting Good Proxy
 
 to Export Good Proxy Insert Proxys.txt In Script Path 
 & 
